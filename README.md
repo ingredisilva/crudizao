@@ -1,8 +1,15 @@
 Estudando CRUD/API's!
-Inclui o uso de Axios, Hooks, Semantic-ui e Local Storage.
-e protocolos HTTP: Create, Read, Update, Delete;
+Inclui o uso de Axios, Hooks, Semantic-ui, MockAPI e Local Storage.
 
 Aprendizado:
+Protocolos HTTP: Create, Read, Update, Delete;
+API's Rest: São API's que atendem ao principio Rest (Representational State Transfer) que são regras de arquitetura para transfêrencia de dados feitas com protocolo HTTP, cujas 'constrainsts' são:
+1. Uniform Interface.
+2. Stateless
+3. Cacheable
+4. Client-Server
+5. Layered System
+6. Code on Demand
 
 LOCAL STORAGE
 Local storage permite armazenar dados sem expiração, eles ficam no navegador até decidirmos apagar por código ou pelo navegador mesmo, permite apenas strings e permite salvar, adicionar, recuperar ou excluir.
